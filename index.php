@@ -1,6 +1,7 @@
 <?php 
 
-echo "Testar";
+$antal = 5;
+echo "Testar " . $antal;
 
 
 ?>
